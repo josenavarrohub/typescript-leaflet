@@ -28,4 +28,5 @@ pnpm start
 * [Webpack](https://parceljs.org/) - The famous open-source module bundler for JavaScript.
 * [TypeScript](https://www.typescriptlang.org/) - The superset for JavaScript.
 
+## Author
 * **José Navarro** - [View LinkedIn profile](https://www.linkedin.com/in/josenavarroortiz/)
